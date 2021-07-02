@@ -1,6 +1,6 @@
 # House_Price_Prediction_Using_Linear_Regression
 Predicting Boston house prices using Linear regression.
-## Brief about Boston dataset
+## Brief about Boston dataset:
 This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. This dataset contains 506 examples with 14 attributes. The attributes are the following:
 There are 14 attributes in each case of the dataset. They are:
               CRIM - per capita crime rate by town
