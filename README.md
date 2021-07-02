@@ -26,7 +26,7 @@ For data visualization in this project I've used three types of plots :
                 2. Heatmap with correlation of features
                 3. Bar graph for the relation between features and the target variables.
                 
-## Model Train:
+## Model Training:
 For training the model I've used the LinearRegression() from sklearn module. And for training purpose 70% of the actual dataset is used and the rest for testing purpose.
 
 ## Model Evaluation:
